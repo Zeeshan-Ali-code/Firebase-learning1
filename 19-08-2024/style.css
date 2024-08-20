@@ -1,0 +1,30 @@
+body{
+
+    background-color: aqua;
+}
+#signup_email{
+    width: 300px;
+    height: auto;
+    color: red;
+    background-color: aliceblue;
+    border-radius: 4px;
+    
+}
+#signup_password{
+    width: 300px;
+    height: auto;
+    color: red;
+    background-color: aliceblue;
+    border-radius: 4px;
+
+}
+.signup_btn{
+    width: 300px;
+    height: 50px;
+    color: red;
+    background-color: rgb(6, 255, 234);
+    border-radius: 4px;
+}
+input{
+    height: 50px;
+}
